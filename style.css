@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heroes {
+    padding-top: 2rem;
+    background-color: #94FFD8;
+}
+
+#project{
+    background-color: #94FFD8;
+}
+
+.footer {
+    background-color: #94FFD8;
+}
+
+section {
+    padding-top: 5rem;
+}
+
